@@ -1,0 +1,31 @@
+{
+    "name": "Libreta GPS",
+    "short_name": "Libreta GPS",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Aplicación de notas con ubicación GPS.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
